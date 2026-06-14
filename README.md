@@ -11,30 +11,18 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre un dataset 
 
 ## 🛠️ Tecnologías Utilizadas
 
-<div align="center">
-  
-<img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-1.24-013243?logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-3.7-11557C?logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-0.12-388E8E?logo=seaborn&logoColor=white">
-<img src="https://img.shields.io/badge/SciPy-1.10-8CAAE6?logo=scipy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-
-</div>
-
-| Tecnología           | Versión | Propósito                         |
-| -------------------- | ------- | --------------------------------- |
-| **Python**           | 3.11+   | Lenguaje principal                |
-| **Pandas**           | 2.0+    | Manipulación y análisis de datos  |
-| **NumPy**            | 1.24+   | Operaciones numéricas             |
-| **Matplotlib**       | 3.7+    | Visualizaciones estáticas         |
-| **Seaborn**          | 0.12+   | Visualizaciones estadísticas      |
-| **Jupyter Notebook** | -       | Entorno de desarrollo interactivo |
-| **Scipy**            | 1.10+   | Pruebas estadísticas (t-test)     |
+| Tecnología                                                                                      | Propósito                         |
+| ----------------------------------------------------------------------------------------------- | --------------------------------- |
+| <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white">         | Lenguaje principal                |
+| <img src="https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas&logoColor=white">          | Manipulación y análisis de datos  |
+| <img src="https://img.shields.io/badge/NumPy-1.24-013243?logo=numpy&logoColor=white">           | Operaciones numéricas             |
+| <img src="https://img.shields.io/badge/Matplotlib-3.7-11557C?logo=matplotlib&logoColor=white">  | Visualizaciones estáticas         |
+| <img src="https://img.shields.io/badge/Seaborn-0.12-388E8E?logo=seaborn&logoColor=white">       | Visualizaciones estadísticas      |
+| <img src="https://img.shields.io/badge/SciPy-1.10-8CAAE6?logo=scipy&logoColor=white">           | Pruebas estadísticas (t-test)     |
+| <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">            | Entorno de desarrollo interactivo |
+| <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">                    | Control de versiones              |
+| <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white"> | Editor de código                  |
+| <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">              | Repositorio remoto                |
 
 ## 📁 Estructura del Proyecto
 
