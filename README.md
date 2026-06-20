@@ -171,3 +171,5 @@ source .venv/bin/activate  # Linux/Mac
 
 pip install -r requirements.txt
 ```
+
+Conclusión: Las distribuciones de _superficie_, `gastos` y `perdidas` están muy sesgadas a la derecha.
