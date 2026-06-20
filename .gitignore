@@ -15,11 +15,6 @@ __pycache__/
 *.pyd
 .Python
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-*.pyx
-*.ipynb
 
 # Archivos de configuración de IDE
 .vscode/
